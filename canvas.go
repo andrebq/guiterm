@@ -1,4 +1,4 @@
-package wdeterm
+package guiterm
 
 import (
 	"github.com/Agon/freetype-go"
